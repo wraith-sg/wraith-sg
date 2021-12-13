@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Gupta
-- 👀 I’m interested in making Mobile Apps using Flutter or React
+- 👀 I’m skilled in making Mobile Apps using Flutter
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on any Flutter Project
 - 📫 You can drop a email
